@@ -1,4 +1,4 @@
-# Blippo-_Data_ko-patch
+# Blippo-ko-patch
 Blippo+_Data_ko-patch
 
 압축된 파일 내려 받으시고
